@@ -21,8 +21,24 @@
                     "createdAt": "2023-09-12T00:10:42.240Z",
                     "updatedAt": "2023-09-12T00:10:42.240Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e51e7a354dec70aa5f9d/projects/64ffa79bba87c635547547c5/assets/64ffac82ba87c6b8cb756b02?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230914%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230914T152829Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5146e3279afa46c1038cd9bc45aa3a9a1228b65c62dde84de36dba3a917b829606af3925c7b9939880301e476b3ddeb98b25e124d11eef87c28e270f6a863262c5d73d9c78e56f728eed516f77546f9672505ef92ac1a9549116d8eb3559cccef32ba74d7d2782f6843f70ab575c60044c68e6ab3146f5b03c42cb2eb6f65817b31f7feb79d35c2284c1596803143306ac5d53114bceeeb97abf987221a1bc0778b7a72adec5d45bf6c7986fe45d8a03b6184d77e0bb8865289742b26c81374db59b3326136f3b5442bcb615589bb3dd4a68b1194e13665aa182c2fa2ab8630d8797d1cdadf412ebfe3a7972c73246d444e53e443a2f209c06f5f9eb6466017e",
-                    "signedUrlExpirationTime": 1694878109546
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e51e7a354dec70aa5f9d/projects/64ffa79bba87c635547547c5/assets/64ffac82ba87c6b8cb756b02?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T223609Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5bfb9523117f413cfcffc515f059206c53416ba99f7f3b30c39c2e13b245617420c0d417a13f7f95780bc2874a81f47b1e90b8b4739d7c49db87a9bf2172068693dca66c740d6475801437e745efe756de48ec6bef7e9d299081ac7421df177bf98b6cb47513b29982d083c5c2b472f6f0028b377c63285ca3088813849f73e3abae799b8382b35c96291e60a454a605b0861afd22e52e2c50ede5181af089afc33120fd6824091f648941c9bcbbc2e6cf2981b500aaad695e80be65e2295544606aef0389240dff479a6804fc3073e3136194a3b27bc66c117fceb03a1b9522e404828194193c6c8757d7ec956a9cd171d44f34628cae6fca4afee116680d40",
+                    "signedUrlExpirationTime": 1695249369268
+                },
+                "6508eb1b9eb9471978740a84": {
+                    "externalStorageType": "GCS",
+                    "_id": "6508eb1b9eb9471978740a84",
+                    "size": "29805",
+                    "mimetype": "audio/mpeg",
+                    "encoding": "7bit",
+                    "originalname": "Picture Taken.mp3",
+                    "backendURI": "/project/6508d3529eb9474da572e88d/getasset/6508eb1b9eb9471978740a84",
+                    "name": "Picture Taken.mp3",
+                    "externalName": "users/64f9e51e7a354dec70aa5f9d/projects/6508d3529eb9474da572e88d/assets/6508eb1b9eb9471978740a84",
+                    "createdAt": "2023-09-19T00:28:11.326Z",
+                    "updatedAt": "2023-09-19T00:28:11.326Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e51e7a354dec70aa5f9d/projects/6508d3529eb9474da572e88d/assets/6508eb1b9eb9471978740a84?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230919%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230919T002811Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4b9223c6dce20462356ad18c4ed22355a33683580b53b61c1a4cee8cdf7d6fd7fe7047933c1269e6effd3bdf065e471d12f0eeb73d4768012a4eb83923d4888b01b4d0a9d5f3a293ed16186fd61f16f64500705daf5c4ce05f256faa557ff514d3f9778d77e73528a740316a3483ddfdf995ba3e0e218bc8ab7f9e6855e47a35ec61c67b5cb6145c86d192e4cd3fe7e669ad16e3b48f4a2224a6f828e04db70ca04bdb22b7bdcf6aeed760641b5a4c27b3d8f28e4bd07ecff46d4eee562d2563dba7e3b8072220447ceacdee1aadb745bdb0224b0fae25d4b29497635d85e1bed7e6a4fea241ed2e0666a1efffd734dbaa665b572e9c4b89eb432fdf61259eda",
+                    "signedUrlExpirationTime": 1695256091368
                 }
             },
             "backendUpgradeVersion": 21,
@@ -35,14 +51,14 @@
                         ],
                         "ios": [
                             {
-                                "name": "NSCameraUsageDescription",
-                                "label": "Camera",
-                                "hint": "Describe why your app uses the camera."
-                            },
-                            {
                                 "name": "NSPhotoLibraryUsageDescription",
                                 "label": "Photos",
                                 "hint": "Describe why your app uses photos."
+                            },
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
                             }
                         ]
                     }
@@ -81,7 +97,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera",
+            "projectName": "Camera 2.0",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -115,7 +131,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +180,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -189,7 +205,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
